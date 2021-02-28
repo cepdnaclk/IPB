@@ -1,0 +1,33 @@
+{
+  "visibility": true,
+  "title": "Automation of Intelligence Preparation of the Battleﬁeld",
+  "team": [
+    {
+      "name": "Hishan Indrajith",
+      "email": "hishan.indrajith.adikari@eng.pdn.ac.lk",
+      "eNumber": "E/14/009"
+    },
+    {
+      "name": "Sathyanga Tharana",
+      "email": "sathyanga.agalakumbura@eng.pdn.ac.lk",
+      "eNumber": "E/14/011"
+    },
+    {
+      "name": "Jayamal Jayamaha",
+      "email": "jayamal.jayamaha@eng.pdn.ac.lk",
+      "eNumber": "E/14/298"
+    }
+  ],
+  "supervisors": [
+    {
+      "name": "Dr. Isuru Nawinne",
+      "email": "isurunawinne@eng.pdn.ac.lk"
+    },
+    {
+      "name": "Dr. Janaka Alawatugoda ",
+      "email": "alawatugoda@eng.pdn.ac.lk"
+    }
+  ],
+  "description": "In military operations armed forces have to get a better idea of the area in which they have to operate including terrain features, threats and avenues of approach. So they gather intelligence on the location, enemy, weather, vegetation, infrastructure and many such factors before making decisions. Intelligence Preparation of the Battleﬁeld (IPB) is the name given for that process of analyzing the situation and making decisions based on predictions. Usually this process happen manually by ofﬁcers using hard copy maps and it have number of inconveniences. In this paper, we implement and present a set of algorithms, tools and approaches for automating terrain analysis and decision making in Intelligence Preparation of the Battleﬁeld process and compare their results with a manual analysis. ",
+  "tags": ["Web", "Algorithm", "Geographic", "Military", "Intelligence"]
+}
